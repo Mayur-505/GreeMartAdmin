@@ -1,0 +1,48 @@
+#Gender {
+  border-color: #00000066;
+  color: #a2a2a2;
+  font-family: "Poppins";
+  font-size: 14px;
+  font-weight: 400;
+}
+#Currency {
+  border-color: #00000066;
+  color: #a2a2a2;
+  font-family: "Poppins";
+  font-size: 14px;
+  font-weight: 400;
+}
+#Language {
+  border-color: #00000066;
+  color: #a2a2a2;
+  font-family: "Poppins";
+  font-size: 14px;
+  font-weight: 400;
+}
+.transition-opacity {
+  height: 45px !important;
+  width: 36px !important;
+}
+.css-19xm0h7-MuiButtonBase-root-MuiPaginationItem-root {
+  margin: 0 !important;
+  border-radius: 0 !important;
+}
+.css-nen11g-MuiStack-root {
+  border-radius: 8px;
+  overflow: hidden;
+  border: 1px solid #bebcbd;
+}
+.data-\[state\=active\]\:text-foreground[data-state="active"] {
+  border-color: #17aec9;
+  color: #00000099;
+}
+
+#innertable .data-\[state\=active\]\:text-foreground[data-state="active"] {
+  border-left: 1px solid #0000004d;
+  border-right: 1px solid #0000004d;
+}
+
+.ql-editor {
+  height: 137px !important;
+  overflow-y: auto;
+}
